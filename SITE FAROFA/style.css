@@ -1,0 +1,60 @@
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dedede;
+}
+
+#titulo {
+    color: white; 
+}
+
+header {
+    background-image:url(https://img.freepik.com/fotos-premium/farofa-brasileira-prato-tradicional-da-culinaria-brasileira-feito-com-farinha-de-mandioca-muito-utilizado-em-festas-e-no-natal-foco-seletivo_59529-894.jpg?w=2000);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+    text-shadow: 1px 1px 1px #E8DD6A, 2px 2px 1px black;
+    letter-spacing: 4px;
+    padding: 50px;
+ }
+
+#menu-h {
+    text-align: center;
+    display: flex;
+    list-style-type: none;
+    border: 1px solid rgb(0, 0, 0);
+    transition: black 2s ease, 2s;
+    background-color: lightyellow;
+}
+
+div{
+    text-align: center;
+    padding: 50px;
+}
+
+div #farofa1{
+    text-align: center;
+    border-radius: 50%;
+}
+
+div #farofa2{
+    text-align: center;
+    border-radius: 50%;
+}
+
+div #farofa3{
+    text-align: center;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+}
